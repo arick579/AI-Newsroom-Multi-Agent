@@ -64,3 +64,14 @@ Requirements:
 * Workflow: Topic POSTed -> Researcher gets facts -> Writer drafts -> Editor critiques -> Writer revises -> Return JSON with all 4 outputs.
 * UI: Single-page dark theme app with topic input, live status bar, and 4 tabbed result views (Facts, First Draft, Editor Notes, Final Article).
 * Output app.py, templates/index.html, and requirements.txt.
+```
+## Results
+<img width="1917" height="947" alt="Screenshot 2026-08-26 100427" src="https://github.com/user-attachments/assets/2082f33c-7ab8-485f-be34-d7f443ce3042" />
+<img width="1917" height="965" alt="Screenshot 2026-08-26 100433" src="https://github.com/user-attachments/assets/cf3853e9-f1eb-482f-8f97-c4ab2d696572" />
+<img width="1902" height="963" alt="Screenshot 2026-08-26 100438" src="https://github.com/user-attachments/assets/042c98dc-36e1-454e-86cc-8e2c9f2bc00c" />
+<img width="1916" height="960" alt="Screenshot 2026-08-26 100443" src="https://github.com/user-attachments/assets/a805502d-20b2-4ac6-9047-44e9a00ee8d8" />
+
+
+
+
+
