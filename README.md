@@ -9,8 +9,11 @@ Developed for **MLH (Major League Hacking) Challenge 6: Multi-Agent Systems**. T
  ## Tech Stack
  
 Backend Framework: Python 3.12 / Flask
+
 AI Orchestration: Backboard API
+
 Frontend: HTML5, CSS3, JavaScript
+
 Environment: Ubuntu (WSL2 / Linux)
 
 ---
