@@ -1,11 +1,13 @@
 # AI Newsroom: Multi-Agent Stateful Workflow
 
 An autonomous web application engineered with **Flask** and **Backboard API** in a Linux (Ubuntu) environment. The system orchestrates 3 specialized AI agents (*Researcher*, *Writer*, *Editor*) operating in a closed-loop review and revision relay.
-   ## Context
+
+## Context
+
 Developed for **MLH (Major League Hacking) Challenge 6: Multi-Agent Systems**. The goal was to engineer an end-to-end multi-agent relay application using a single-shot prompt and environment-secured stateful API calls.
 
-Tech Stack
-
+ ## Tech Stack
+ 
 Backend Framework: Python 3.12 / Flask
 AI Orchestration: Backboard API
 Frontend: HTML5, CSS3, JavaScript
