@@ -24,17 +24,17 @@ The application executes a stateful, four-stage feedback loop:
 
 │  Researcher  │ ──> Extracts 5 key technical facts
 
-│
+
 ▼
 
 │    Writer    │ ──> Generates 1st article draft using facts
 
-│
+
 ▼
 
 │    Editor    │ ──> Performs critique & provides 3 revisions
 
-│
+
 ▼
 
 │ Writer (Rev) │ ──> Re-evaluates critique & outputs final article
