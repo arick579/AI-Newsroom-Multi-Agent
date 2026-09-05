@@ -4,7 +4,7 @@ An autonomous web application engineered with **Flask** and **Backboard API** in
 
 ## Context
 
-Developed for **MLH (Major League Hacking) Challenge 6: Multi-Agent Systems**. The goal was to engineer an end-to-end multi-agent relay application using a single-shot prompt and environment-secured stateful API calls.
+Developed for **MLH (Major League Hacking) Challenge 6: Multi-Agent Systems**(August 2026 - Global Hack Week: Agents). The goal was to engineer an end-to-end multi-agent relay application using a single-shot prompt and environment-secured stateful API calls.
 
  ## Tech Stack
  
