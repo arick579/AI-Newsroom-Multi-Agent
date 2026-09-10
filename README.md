@@ -1,3 +1,4 @@
+![Build & Test Pipeline](https://github.com/arick579/AI-Newsroom-Multi-Agent/actions/workflows/deploy.yml/badge.svg)
 # AI Newsroom: Multi-Agent Stateful Workflow
 
 An autonomous web application engineered with **Flask** and **Backboard API** in a Linux (Ubuntu) environment. The system orchestrates 3 specialized AI agents (*Researcher*, *Writer*, *Editor*) operating in a closed-loop review and revision relay.
