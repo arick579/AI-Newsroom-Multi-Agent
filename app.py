@@ -51,6 +51,6 @@ def run_pipeline():
         "critique": critique,
         "final": final_article
     })
-
+    
 if __name__ == '__main__':
-app.run(port=5000, debug=False)
+    app.run(port=5000, debug=False)  
