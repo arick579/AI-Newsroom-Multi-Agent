@@ -1,4 +1,4 @@
-name: Web Application CI Pipeline
+name: Web App CI Pipeline
 
 on:
   push:
